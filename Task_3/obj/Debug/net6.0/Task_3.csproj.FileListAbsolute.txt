@@ -1,0 +1,15 @@
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\DZ4\Task_3\obj\Debug\net6.0\ref\Task_3.dll
